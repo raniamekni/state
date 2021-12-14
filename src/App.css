@@ -1,0 +1,32 @@
+#img{
+  width: 750px;
+  height: 500px;
+  border: 3px solid rgba(9, 20, 180, 0.938);
+  
+  
+}
+#full{
+  color:rgb(33, 33, 218);
+  font-size: 200%;
+  border-style: dotted dashed solid double;
+  background-color:beige;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+#bio{
+  color: rebeccapurple;
+  font-family:cursive;
+  
+}
+  
+
+#pro{
+  color: blue;
+  
+  
+}
+#butt{
+  background-color: rgb(250, 215, 241);
+  color: black;
+  border:3px solid rgb(47, 47, 48);
+  font-family:cursive;
+}
